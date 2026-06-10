@@ -41,10 +41,6 @@ Claude Code 深度用户，专注 AI 驱动开发工作流的设计与落地。
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxzb&layout=compact&theme=graywhite&hide_border=true&langs_count=8" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xxxxzb&theme=graywhite&hide_border=true" />
-</p>
-
 ---
 
 ## 🚀 Featured
