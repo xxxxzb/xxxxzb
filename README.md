@@ -42,7 +42,7 @@ Claude Code 深度用户，专注 AI 驱动开发工作流的设计与落地。
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxxzb&theme=graywhite&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=xxxxzb&theme=graywhite&hide_border=true" />
 </p>
 
 ---
