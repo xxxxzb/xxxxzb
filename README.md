@@ -49,12 +49,36 @@ Claude Code 深度用户，专注 AI 驱动开发工作流的设计与落地。
 
 ## 🚀 Featured
 
+### 🦀 Rust
+
 | Project | Description |
 |---------|-------------|
-| [**os**](https://github.com/xxxxzb/os) | RISC-V OS written in Rust |
-| [**dotfiles**](https://github.com/xxxxzb/dotconfig) | Arch Linux config files |
-| [**nvim**](https://github.com/xxxxzb/nvim) | Neovim 配置 |
-| [**auto_chat**](https://github.com/xxxxzb/auto_chat) | Auto chat bot in Rust |
+| [**os**](https://github.com/xxxxzb/os) | RISC-V 操作系统，从零构建内核 |
+| [**claw-code**](https://github.com/xxxxzb/claw-code) | AI 编程工具，Rust 实现 |
+| [**auto_chat**](https://github.com/xxxxzb/auto_chat) | Rust 自动聊天机器人 |
+| [**rust-dwm-status**](https://github.com/xxxxzb/rust-dwm-status) | Rust 重写的 dwm 状态栏 |
+| [**drawer**](https://github.com/xxxxzb/drawer) | macOS 剪贴板应用，Rust + Tauri |
+
+### 🤖 AI & Agent
+
+| Project | Description |
+|---------|-------------|
+| [**agent-studio**](https://github.com/xxxxzb/agent-studio) | 跨平台 AI Agent 桌面应用 |
+| [**arp**](https://github.com/xxxxzb/arp) | Claude Code WebUI + frp 整合 |
+
+<details>
+<summary>📎 其他项目</summary>
+
+| Project | Description |
+|---------|-------------|
+| [**dwm_and_st**](https://github.com/xxxxzb/dwm_and_st) | 定制化 dwm + st + 脚本 |
+| [**nvim**](https://github.com/xxxxzb/nvim) | Neovim IDE 配置 |
+| [**dotconfig**](https://github.com/xxxxzb/dotconfig) | Arch Linux 系统配置 |
+| [**rime**](https://github.com/xxxxzb/rime) | Rime 鼠须管双拼配置 |
+| [**shuangpin**](https://github.com/xxxxzb/shuangpin) | 双拼方案评测优化工具 |
+| [**kingdeeServer**](https://github.com/xxxxzb/kingdeeServer) | 金蝶服务端开发 |
+
+</details>
 
 ---
 
