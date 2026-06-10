@@ -54,6 +54,7 @@ Claude Code 深度用户，专注 AI 驱动开发工作流的设计与落地。
 | Project | Description |
 |---------|-------------|
 | [**os**](https://github.com/xxxxzb/os) | RISC-V 操作系统，从零构建内核 |
+| [**type-bridge-rs**](https://github.com/xxxxzb/type-bridge-rs) | 手机浏览器 → Wi-Fi → 电脑打字，Rust 重写 |
 | [**claw-code**](https://github.com/xxxxzb/claw-code) | AI 编程工具，Rust 实现 |
 | [**auto_chat**](https://github.com/xxxxzb/auto_chat) | Rust 自动聊天机器人 |
 | [**rust-dwm-status**](https://github.com/xxxxzb/rust-dwm-status) | Rust 重写的 dwm 状态栏 |
