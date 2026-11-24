@@ -1,21 +1,10 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxxzb/xxxxzb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxxzb/xxxxzb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxxzb/xxxxzb/output/github-contribution-grid-snake.svg">
+</picture>
 
-# Hi, I'm Ben
-
-**AI · Rust · Systems**
-
-喜欢从真实问题出发，把陌生技术学明白，再做成真正能运行的东西。
-
-[![GitHub](https://img.shields.io/badge/GitHub-xxxxzb-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/xxxxzb)
-
-</div>
-
-## About
-
-Building tools with **Rust**, **AI**, and **Systems**.
-Currently tinkering with **MCP**, **Agent Skills**, and native desktop apps — turning messy workflows into small, reliable software.
-
-## Projects
+### Projects
 
 - [**git-graph-rs**](https://github.com/xxxxzb/git-graph-rs) — 零 Electron 的 macOS 原生 Git 提交图谱客户端（Rust + GPUI + `gix`，~28 MB）
 - [**gpui-kit-mcp**](https://github.com/xxxxzb/gpui-kit-mcp) — 让 AI Agent 读取并操作原生 GPUI 桌面应用语义树的 MCP Server
@@ -31,22 +20,3 @@ Currently tinkering with **MCP**, **Agent Skills**, and native desktop apps — 
 - [**dwm_and_st**](https://github.com/xxxxzb/dwm_and_st) — dwm / st 与 Linux 桌面工作流定制
 
 </details>
-
-## Stack
-
-![Rust](https://img.shields.io/badge/Rust-24292f?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-24292f?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
-
-`Tokio` `Axum` `GPUI` `MCP` `Agent Skill` `RAG` `Shell`
-
----
-
-<div align="center">
-
-**Stay curious. Build things. Keep learning.**
-
-</div>
